@@ -1,4 +1,4 @@
-module github.com/pivotal/tanzu-application-service
+module github.com/ciriarte/explicit-go-deps-docker
 
 go 1.14
 
