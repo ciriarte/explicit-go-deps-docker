@@ -5,5 +5,7 @@ go 1.14
 require (
 	github.com/k14s/kbld v0.20.0
 	github.com/k14s/vendir v0.6.0
-	github.com/k14s/ytt v0.24.0
+	github.com/k14s/ytt v0.27.0
+	github.com/k14s/kapp v0.30.0
+	github.com/cloudfoundry/bosh-cli v6.2.1
 )
